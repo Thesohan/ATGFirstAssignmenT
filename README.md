@@ -6,5 +6,5 @@ Task-></br>
 * Model- which is used to map the JSON data to Interfaces which defines the possible HTTP operations.</br>
 * Retrofit class - Instance which uses the interface and the Builder API which allows defining the URL end point for the HTTP operation.</br>
 
-2- Picasso is used for downloading images.</br>
-3- Recyclerview is used to display image id with image.</br>
+3- Picasso is used for downloading images.</br>
+4- Recyclerview is used to display image id with image.</br>
