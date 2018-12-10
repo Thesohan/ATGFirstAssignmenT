@@ -1,6 +1,6 @@
 
 # ATGFirstAssignmenT
-Task->
+Task-></br>
 1-This app show recent images using flicker api and also let users to search for images like Cat, Dog etc.</br>
 2- Retrofit library is used in order to retrive json from the flicker api.Retrofit requires- </br>
 * Model- which is used to map the JSON data to Interfaces which defines the possible HTTP operations.</br>
